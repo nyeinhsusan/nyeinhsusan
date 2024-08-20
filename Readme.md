@@ -8,17 +8,20 @@ Below, you'll find a summary of projects I've worked on, showcasing my skills in
 
 ## Projects Overview
 
-=#Movie Channel Project
+#Movie Channel Project
 
 Movie Channel Project is a React.js application using Tailwind CSS for styling and Redux for state management. It integrates with the TMDb API to deliver real-time movie data and features a responsive, user-friendly interface.
 
 #Fit for Life
+
 "Fit for Life" is a university group project focused on creating a health website. This platform allows users to access a wealth of health documents, gain valuable knowledge, and calculate personalized food and diet plans. The project is a collaborative effort, developed by me and my friends.
 
 #AMSPM Project
+
 The AMSP project, built with ReactJS, Tailwind CSS, and JSON data, features a sleek admin dashboard with side resizing, dark mode, pie charts, graphs, and scrollable tables. It also includes functionality to export table data as an Excel file.
 
 #Merry Meal Project
+
 "Merry Meal" is a school group project that focuses on a food delivery system. It uses ReactJS for the frontend, Spring Boot for the backend, and Bootstrap for styling.
 
 #ABC Learning Center Project 
